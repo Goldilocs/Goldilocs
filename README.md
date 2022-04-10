@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Goldilocs
-- 👀 I’m interested in python, vba, software development
-- 🌱 I’m currently learning python mainly
-- 💞️ I’m looking to collaborate on excel automation solutions
+- 👀 I’m interested in software development *(ruby, javascript, html, css)
 - 📫 How to reach me: smayrhofer@gmail.com
 
 <!---
