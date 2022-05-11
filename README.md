@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Goldilocs
+- 👋 Hi, I’m Sheila
 - 👀 I’m interested in software development *(ruby, javascript, html, css)
 - 📫 How to reach me: smayrhofer@gmail.com
 - Look me up on codewars! Username: Goldilocs
